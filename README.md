@@ -23,7 +23,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;- **Software Development**  
 &nbsp;&nbsp;&nbsp;&nbsp;- **Full Stack Web Development**  
 &nbsp;&nbsp;&nbsp;&nbsp;- **Cybersecurity**  
-&nbsp;&nbsp;&nbsp;&nbsp;- **Artificial Intelligence**
+&nbsp;&nbsp;&nbsp;&nbsp;- **Artificial Intelligence**  
 &nbsp;&nbsp;&nbsp;&nbsp;- **Game Development**
 
 
@@ -33,7 +33,7 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/yasiru-pandigama-71a960291)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasiru-pandigama-71a960291)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/18sS8KBYWn/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yrcd27/?hl=en)
 
