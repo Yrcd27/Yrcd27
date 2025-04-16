@@ -65,13 +65,9 @@
 
 ---
 
-## 🎯 Quote to Live By
-
 > “Consistency, curiosity, and creativity are my biggest tools.”
 
 ---
-
-## 🎉 Fun Extras (Optional)
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
