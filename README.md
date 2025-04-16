@@ -19,6 +19,7 @@
 🏆 I love participating in **tech competitions**, coding events, and hackathons  
 🤝 Actively involved in **volunteering** and contributing to tech communities
 
+
 🌐 Exploring:  
 &nbsp;&nbsp;&nbsp;&nbsp;- **Software Development**  
 &nbsp;&nbsp;&nbsp;&nbsp;- **Full Stack Web Development**  
