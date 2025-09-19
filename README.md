@@ -15,16 +15,11 @@
 🏆 I love participating in **tech competitions**, coding events, and hackathons  
 🤝 Actively involved in **volunteering** and contributing to tech communities
 
-
 🌐 Exploring:  
 &nbsp;&nbsp;&nbsp;&nbsp;- **Software Development**  
 &nbsp;&nbsp;&nbsp;&nbsp;- **Full Stack Web Development**  
 &nbsp;&nbsp;&nbsp;&nbsp;- **Cybersecurity**  
-&nbsp;&nbsp;&nbsp;&nbsp;- **Artificial Intelligence**  
-&nbsp;&nbsp;&nbsp;&nbsp;- **Game Development**
-
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;- **Artificial Intelligence**
 
 ---
 
@@ -33,7 +28,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasiru-pandigama-71a960291)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/18sS8KBYWn/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yrcd27/?hl=en)
-
 
 ---
 
@@ -47,6 +41,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat&logo=windows&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
@@ -62,9 +57,3 @@
 ---
 
 > “Consistency, curiosity, and creativity are my biggest tools.”
-
----
-
-<p align="left">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</p>
