@@ -1,9 +1,8 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Yasiru+Pandigama;Computer+Engineering+Undergraduate;Full-Stack+Developer;Tech+Enthusiast;Competitive+Programmer"
+  src="https://readme-typing-svg.demolab.com?font=Consolas,monospace&weight=500&size=32&duration=2600&pause=700&color=22C55E&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Yasiru+Pandigama;Computer+Engineering+Undergraduate;Full-Stack+Developer;Tech+Enthusiast;Competitive+Programmer"
 />
-
 
 
 
