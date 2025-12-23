@@ -1,10 +1,10 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2500&pause=600&color=22C55E&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Yasiru+Pandigama;Computer+Engineering+Undergraduate;Full-Stack+Developer;Tech+Enthusiast;Competitive+Programmer"
+  src="https://readme-typing-svg.demolab.com?font=Consolas,monospace&weight=500&size=20&duration=2600&pause=700&color=22C55E&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Yasiru+Pandigama;Computer+Engineering+Undergraduate;Full-Stack+Developer;Tech+Enthusiast;Competitive+Programmer"
 />
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/Yrcd27">
   <img src="https://img.shields.io/github/followers/Yrcd27?label=Followers&style=flat">
