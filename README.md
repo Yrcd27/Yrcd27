@@ -7,10 +7,10 @@
 <br/>
 
 <a href="https://github.com/Yrcd27">
-  <img src="https://img.shields.io/github/followers/Yrcd27?label=Followers&style=flat&color=22C55E&labelColor=22C55E&logo=github&logoColor=white">
+  <img src="https://img.shields.io/github/followers/Yrcd27?label=Followers&style=flat&labelColor=555555&color=22C55E&logo=github&logoColor=white">
 </a>
 <a href="https://github.com/Yrcd27?tab=stars">
-  <img src="https://img.shields.io/github/stars/Yrcd27?label=Stars&style=flat&color=22C55E&labelColor=22C55E&logo=github&logoColor=white">
+  <img src="https://img.shields.io/github/stars/Yrcd27?label=Stars&style=flat&labelColor=555555&color=22C55E&logo=github&logoColor=white">
 </a>
 
 </div>
