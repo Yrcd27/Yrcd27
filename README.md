@@ -7,10 +7,10 @@
 <br/>
 
 <a href="https://github.com/Yrcd27">
-  <img src="https://img.shields.io/github/followers/Yrcd27?label=Followers&style=flat">
+  <img src="https://img.shields.io/github/followers/Yrcd27?label=Followers&color=22C55E&labelColor=22C55E&style=flat&logo=github&logoColor=white">
 </a>
 <a href="https://github.com/Yrcd27?tab=following">
-  <img src="https://img.shields.io/badge/Following-View-22C55E?style=flat">
+  <img src="https://img.shields.io/badge/Following-View-22C55E?style=flat&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -61,7 +61,7 @@ I am a Computer Engineering undergraduate with hands-on experience in full-stack
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="36"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-mark-white.svg" height="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="36"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="36"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="36"/>
 
