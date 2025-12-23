@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://github.com/Yrcd27">
-  <img src="https://img.shields.io/github/followers/Yrcd27?label=Followers&color=22C55E&labelColor=22C55E&style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Followers-View-22C55E?style=flat&logo=github&logoColor=white">
 </a>
 <a href="https://github.com/Yrcd27?tab=following">
   <img src="https://img.shields.io/badge/Following-View-22C55E?style=flat&logo=github&logoColor=white">
