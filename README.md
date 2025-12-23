@@ -1,8 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Yasiru Pandigama
+<img
+  src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2500&pause=600&color=22C55E&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Yasiru+Pandigama;Computer+Engineering+Undergraduate;Full-Stack+Developer;Tech+Enthusiast;Competitive+Programmer"
+/>
 
-**Computer Engineering Undergraduate · Full-Stack Developer · Tech Enthusiast**
+<br/><br/>
 
 <a href="https://github.com/Yrcd27">
   <img src="https://img.shields.io/github/followers/Yrcd27?label=Followers&style=flat">
@@ -78,15 +80,13 @@ I am a Computer Engineering undergraduate with hands-on experience in full-stack
 <div align="center">
 
 <a href="https://www.linkedin.com/in/yasiru-pandigama-71a960291">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="36"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=square&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
 <a href="mailto:yasirucp2002@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="36"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=square&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
 <a href="https://github.com/Yrcd27/My-Portfolio">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36"/>
+  <img src="https://img.shields.io/badge/Portfolio-181717?style=square&logo=github&logoColor=white"/>
 </a>
 
 </div>
