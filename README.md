@@ -4,7 +4,7 @@
   src="https://readme-typing-svg.demolab.com?font=Consolas,monospace&weight=500&size=24&duration=2600&pause=700&color=22C55E&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Yasiru+Pandigama;Computer+Engineering+Undergraduate;Full-Stack+Developer;Tech+Enthusiast;Competitive+Programmer"
 />
 
-<br/>
+
 
 <a href="https://github.com/Yrcd27">
   <img src="https://img.shields.io/github/followers/Yrcd27?label=Followers&style=flat">
