@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=36&duration=2600&pause=700&color=22C55E&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Yasiru+Pandigama;Computer+Engineering+Undergraduate;Full-Stack+Developer;Tech+Enthusiast;Competitive+Programmer"
+  src="https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=36&duration=2600&pause=700&color=22C55E&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Yasiru+Pandigama;Computer+Engineer[...]
 />
 
 <a href="https://github.com/Yrcd27">
@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I am a Computer Engineering undergraduate with hands-on experience in full-stack web development, mobile applications, cybersecurity practices, DevOps fundamentals, and applied machine learning. I enjoy building real-world systems, exploring new tools, and learning through practical projects.
+I am a Computer Engineering undergraduate with hands-on experience in full-stack web development, mobile applications, cybersecurity practices, DevOps fundamentals, and applied machine learning. I enj[...]
 
 ---
 
@@ -78,18 +78,25 @@ I am a Computer Engineering undergraduate with hands-on experience in full-stack
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Stats & Contribution Graph
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/yasiru-pandigama-71a960291">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:yasirucp2002@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=square&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Yrcd27/My-Portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-181717?style=square&logo=github&logoColor=white"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yrcd27&theme=dark&hide_border=true&background=0D1117&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideNums=22C55E&currStreakNum=22C55E&dates=9CA3AF&sideLabels=22C55E" alt="GitHub Streak Stats" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yrcd27&bg_color=0d1117&color=22c55e&line=22c55e&point=22c55e&area=true&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Yrcd27/My-Portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasiru-pandigama-71a960291)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/yRcd_27)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasirucp2002@gmail.com)
 
 </div>
