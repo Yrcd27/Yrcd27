@@ -1,4 +1,4 @@
-<div align="center">
+[[<div align="center">
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=36&duration=2600&pause=700&color=22C55E&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Yasiru+Pandigama;Computer+Engineer[...]
@@ -99,4 +99,4 @@ I am a Computer Engineering undergraduate with hands-on experience in full-stack
 [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/yRcd_27)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasirucp2002@gmail.com)
 
-</div>
+</div>](https://github.com/Yrcd27)](https://github.com/Yrcd27)
