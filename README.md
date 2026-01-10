@@ -79,10 +79,7 @@ I am a Computer Engineering undergraduate with hands-on experience in full-stack
 ---
 ## 📊 Contribution Graph
 
-<div align="center">
-[![Yrcd27's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Yrcd27&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true)](https://github.com/Yrcd27)
-
-</div>
+[![Yrcd27's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yrcd27&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true)](https://github.com/Yrcd27)
 
 ---
 
