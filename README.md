@@ -1,8 +1,8 @@
-[[<div align="center">
+<div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=36&duration=2600&pause=700&color=22C55E&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Yasiru+Pandigama;Computer+Engineer[...]
-"/>
+  src="https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=36&duration=2600&pause=700&color=22C55E&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Yasiru+Pandigama;Computer+Engineering+Undergraduate;Full-Stack+Developer;Tech+Enthusiast;Competitive+Programmer"
+/>
 
 <a href="https://github.com/Yrcd27">
   <img src="https://img.shields.io/github/followers/Yrcd27?label=Followers&style=flat&labelColor=555555&color=22C55E&logo=github&logoColor=white">
@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I am a Computer Engineering undergraduate with hands-on experience in full-stack web development, mobile applications, cybersecurity practices, DevOps fundamentals, and applied machine learning. I enj[...]
+I am a Computer Engineering undergraduate with hands-on experience in full-stack web development, mobile applications, cybersecurity practices, DevOps fundamentals, and applied machine learning. I enjoy building real-world systems, exploring new tools, and learning through practical projects.
 
 ---
 
@@ -77,13 +77,9 @@ I am a Computer Engineering undergraduate with hands-on experience in full-stack
 - Cybersecurity and networking  
 
 ---
-
-## 📊 GitHub Stats & Contribution Graph
+## 📊 Contribution Graph
 
 <div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yrcd27&theme=dark&hide_border=true&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=22C55E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF&background=0D1117)](https://github.com/Yrcd27)
-
 [![Yrcd27's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yrcd27&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true)](https://github.com/Yrcd27)
 
 </div>
@@ -99,4 +95,7 @@ I am a Computer Engineering undergraduate with hands-on experience in full-stack
 [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/yRcd_27)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasirucp2002@gmail.com)
 
-</div>](https://github.com/Yrcd27)](https://github.com/Yrcd27)
+</div>
+
+
+</div>
