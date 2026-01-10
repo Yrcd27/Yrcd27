@@ -2,7 +2,7 @@
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=36&duration=2600&pause=700&color=22C55E&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Yasiru+Pandigama;Computer+Engineer[...]
-/>
+"/>
 
 <a href="https://github.com/Yrcd27">
   <img src="https://img.shields.io/github/followers/Yrcd27?label=Followers&style=flat&labelColor=555555&color=22C55E&logo=github&logoColor=white">
@@ -82,9 +82,9 @@ I am a Computer Engineering undergraduate with hands-on experience in full-stack
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yrcd27&theme=dark&hide_border=true&background=0D1117&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideNums=22C55E&currStreakNum=22C55E&dates=9CA3AF&sideLabels=22C55E" alt="GitHub Streak Stats" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yrcd27&theme=dark&hide_border=true&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=22C55E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF&background=0D1117)](https://github.com/Yrcd27)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yrcd27&bg_color=0d1117&color=22c55e&line=22c55e&point=22c55e&area=true&hide_border=true" alt="Contribution Graph" />
+[![Yrcd27's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yrcd27&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true)](https://github.com/Yrcd27)
 
 </div>
 
