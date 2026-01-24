@@ -25,9 +25,13 @@ I am a Computer Engineering undergraduate with hands-on experience in full-stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,cpp,c,dart,kotlin,react,vite,html,css,tailwind,nodejs,spring,dotnet,flutter,mysql,postgres,mongodb,sqlite,docker,linux,jenkins,terraform,aws,gcp,azure,git,kubernetes,postman,jupyter,numpy,pandas&theme=dark" />
+<img
+  src="https://skillicons.dev/icons?i=js,ts,python,java,cs,cpp,c,dart,kotlin,react,vite,html,css,tailwind,nodejs,spring,dotnet,flutter,firebase,mysql,postgres,mongodb,sqlite,docker,linux,jenkins,terraform,aws,gcp,azure,git,kubernetes,postman,jupyter,numpy,pandas&theme=dark"
+/>
 
 </div>
+
+
 
 ---
 
