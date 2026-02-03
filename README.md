@@ -1,16 +1,13 @@
 <div align="center">
-
 <img
   src="https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=35&duration=2600&pause=700&color=22C55E&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Yasiru+Pandigama;Computer+Engineering+Undergraduate;Full-Stack+Developer;Tech+Enthusiast;Competitive+Programmer"
 />
-
 <a href="https://github.com/Yrcd27">
   <img src="https://img.shields.io/github/followers/Yrcd27?label=Followers&style=flat&labelColor=555555&color=22C55E&logo=github&logoColor=white">
 </a>
 <a href="https://github.com/Yrcd27?tab=stars">
   <img src="https://img.shields.io/github/stars/Yrcd27?label=Stars&style=flat&labelColor=555555&color=22C55E&logo=github&logoColor=white">
 </a>
-
 </div>
 
 ---
@@ -24,14 +21,10 @@ I am a Computer Engineering undergraduate with hands-on experience in full-stack
 ## 💻 Skills
 
 <div align="center">
-
 <img
-  src="https://skillicons.dev/icons?i=js,ts,python,java,cs,cpp,c,dart,kotlin,react,vite,express,html,css,tailwind,nodejs,spring,dotnet,flutter,firebase,mysql,postgres,mongodb,sqlite,docker,linux,jenkins,terraform,ansible,aws,gcp,azure,git,kubernetes,postman,jupyter,numpy,pandas&theme=dark"
+  src="https://skillicons.dev/icons?i=js,ts,python,java,cs,cpp,c,dart,kotlin,react,angular,nextjs,vite,express,nestjs,html,css,tailwind,nodejs,spring,dotnet,flutter,firebase,mysql,postgres,mongodb,sqlite,docker,linux,jenkins,terraform,ansible,aws,git,kubernetes,postman,jupyter,numpy,pandas&theme=dark"
 />
-
 </div>
-
-
 
 ---
 
