@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Yasiru%20Pandigama&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Full-Stack+Developer;Next.js+%26+React+Specialist;DevOps+%26+Cloud+Enthusiast;Machine+Learning+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Hi,+I'm+Yasiru+Pandigama+👋;Computer+Engineering+Student;Full-Stack+Developer;Next.js+%26+React+Specialist;DevOps+%26+Cloud+Enthusiast;Machine+Learning+Explorer" alt="Typing SVG" />
 
 <br/>
 
@@ -100,8 +100,8 @@ const yasiru = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yrcd27&show_icons=true&theme=dark&bg_color=0d1117&title_color=22c55e&text_color=ffffff&icon_color=22c55e&border_color=22c55e&count_private=true&include_all_commits=true&hide_border=false" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yrcd27&layout=compact&theme=dark&bg_color=0d1117&title_color=22c55e&text_color=ffffff&border_color=22c55e&hide_border=false&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yrcd27&show_icons=true&theme=dark&bg_color=0d1117&title_color=22c55e&text_color=ffffff&icon_color=22c55e&border_color=22c55e&count_private=true&include_all_commits=true&hide_border=false" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yrcd27&layout=compact&theme=dark&bg_color=0d1117&title_color=22c55e&text_color=ffffff&border_color=22c55e&hide_border=false&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
@@ -126,54 +126,31 @@ const yasiru = {
 
 <br/>
 
-## 💼 Core Competencies
+## 💼 What I Do
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🌐 Development
-- ⚡ Full-Stack Web Applications
-- 📱 Mobile App Development
-- 🔌 RESTful API Design
-- 🏗️ Microservices Architecture
-- 🎨 Responsive UI/UX Design
+```yaml
+Development:
+  - Full-Stack Web & Mobile Applications
+  - RESTful APIs & Microservices
+  - Responsive UI/UX Design
 
-</td>
-<td width="50%" valign="top">
+Infrastructure:
+  - Cloud Architecture (AWS)
+  - CI/CD Automation & DevOps
+  - Container Orchestration (Docker, Kubernetes)
 
-### ☁️ Infrastructure
-- 🚀 Cloud Architecture (AWS)
-- 🔄 CI/CD Pipeline Automation
-- 🐳 Container Orchestration
-- 📜 Infrastructure as Code
-- 📊 System Monitoring & Logging
+Security & AI:
+  - Cybersecurity & Network Security
+  - Machine Learning & Data Analysis
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Practices:
+  - Agile/Scrum | Test-Driven Development
+  - Code Review & QA | Technical Documentation
+```
 
-### 🔐 Security & AI
-- 🛡️ Cybersecurity Best Practices
-- 🌐 Network Security
-- 🤖 Machine Learning Models
-- 📈 Data Analysis & Visualization
-- 🔍 Threat Detection
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Practices
-- 🔄 Agile/Scrum Methodologies
-- ✅ Test-Driven Development
-- 👀 Code Review & Quality Assurance
-- 📚 Technical Documentation
-- 🤝 Cross-functional Collaboration
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -181,7 +158,7 @@ const yasiru = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-22c55e?style=for-the-badge&logoColor=white)](https://www.yasiru-pandigama.online)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://www.yasiru-pandigama.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasiru-pandigama-71a960291)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/yRcd_27)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasirucp2002@gmail.com)
