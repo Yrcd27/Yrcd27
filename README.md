@@ -188,16 +188,6 @@ const yasiru = {
 
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%27s+bad.&author=Cory+House" alt="Quote" />
-</div>
-
-<br/>
-
----
-
 <div align="center">
   
 ### 💡 Open to collaboration on innovative projects and opportunities!
