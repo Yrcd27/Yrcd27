@@ -31,55 +31,10 @@ const yasiru = {
 
 ## 💻 Skills
 
-<h3 align="center">Frontend Development</h3>
 <div align="center">
 <img
-  src="https://skillicons.dev/icons?i=react,ts,nextjs,js,angular,vite,html,css,tailwind&theme=dark"
+  src="https://skillicons.dev/icons?i=react,ts,nextjs,js,angular,vite,html,css,tailwind,nodejs,express,nestjs,spring,dotnet,flutter,dart,kotlin,postgres,mongodb,mysql,sqlite,firebase,docker,kubernetes,aws,linux,jenkins,terraform,ansible,git,postman,python,java,cs,cpp,c,jupyter&theme=dark"
 />
-</div>
-
-<h3 align="center">Backend Development</h3>
-<div align="center">
-<img
-  src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,dotnet&theme=dark"
-/>
-</div>
-
-<h3 align="center">Mobile Development</h3>
-<div align="center">
-<img
-  src="https://skillicons.dev/icons?i=flutter,dart,kotlin&theme=dark"
-/>
-</div>
-
-<h3 align="center">Databases</h3>
-<div align="center">
-<img
-  src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase&theme=dark"
-/>
-</div>
-
-<h3 align="center">DevOps & Cloud</h3>
-<div align="center">
-<img
-  src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,jenkins,terraform,ansible,git,postman&theme=dark"
-/>
-</div>
-
-<h3 align="center">Programming Languages</h3>
-<div align="center">
-<img
-  src="https://skillicons.dev/icons?i=python,java,cs,cpp,c&theme=dark"
-/>
-</div>
-
-<h3 align="center">Data Science & ML</h3>
-<div align="center">
-<img
-  src="https://skillicons.dev/icons?i=jupyter&theme=dark"
-/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" width="48" alt="NumPy" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" width="48" alt="Pandas" />
 </div>
 
 ---
