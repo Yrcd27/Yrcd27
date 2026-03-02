@@ -1,7 +1,7 @@
 
 <div align="center">
 <img
-  src="https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=32&duration=2600&pause=700&color=22C55E&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Yasiru+Pandigama;Computer+Engineering+Undergraduate;Full-Stack+Developer;Next.js+%26+React+Specialist;DevOps+%26+Cloud+Enthusiast;Competitive+Programmer"
+  src="https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=32&duration=2600&pause=700&color=22C55E&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Yasiru+Pandigama;Computer+Engineering+Undergraduate;Full-Stack+Developer;Competitive+Programmer"
 />
 <a href="https://github.com/Yrcd27">
   <img src="https://img.shields.io/github/followers/Yrcd27?label=Followers&style=flat&labelColor=555555&color=22C55E&logo=github&logoColor=white">
@@ -25,55 +25,55 @@ const yasiru = {
 };
 ```
 
-> Building scalable systems, solving complex problems, and continuously learning through hands-on projects.
+> Building scalable systems, solving complex problems, and continuously learning through hands-on projects. Quick learner, team player, and active volunteer who thrives in collaborative environments.
 
 ---
 
 ## 💻 Skills
 
-### Frontend Development
+<h3 align="center">Frontend Development</h3>
 <div align="center">
 <img
   src="https://skillicons.dev/icons?i=react,ts,nextjs,js,angular,vite,html,css,tailwind&theme=dark"
 />
 </div>
 
-### Backend Development
+<h3 align="center">Backend Development</h3>
 <div align="center">
 <img
   src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,dotnet&theme=dark"
 />
 </div>
 
-### Mobile Development
+<h3 align="center">Mobile Development</h3>
 <div align="center">
 <img
   src="https://skillicons.dev/icons?i=flutter,dart,kotlin&theme=dark"
 />
 </div>
 
-### Databases
+<h3 align="center">Databases</h3>
 <div align="center">
 <img
   src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase&theme=dark"
 />
 </div>
 
-### DevOps & Cloud
+<h3 align="center">DevOps & Cloud</h3>
 <div align="center">
 <img
   src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,jenkins,terraform,ansible,git,postman&theme=dark"
 />
 </div>
 
-### Programming Languages
+<h3 align="center">Programming Languages</h3>
 <div align="center">
 <img
   src="https://skillicons.dev/icons?i=python,java,cs,cpp,c&theme=dark"
 />
 </div>
 
-### Data Science & ML
+<h3 align="center">Data Science & ML</h3>
 <div align="center">
 <img
   src="https://skillicons.dev/icons?i=jupyter&theme=dark"
