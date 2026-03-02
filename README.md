@@ -1,4 +1,4 @@
-<br></br>
+</br>
 <div align="center">
 <img
   src="https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=32&duration=2600&pause=700&color=22C55E&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Yasiru+Pandigama;Computer+Engineering+Undergraduate;Full-Stack+Developer;Competitive+Programmer"
