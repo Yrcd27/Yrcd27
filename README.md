@@ -1,174 +1,112 @@
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Yasiru%20Pandigama&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Hi,+I'm+Yasiru+Pandigama+👋;Computer+Engineering+Student;Full-Stack+Developer;Next.js+%26+React+Specialist;DevOps+%26+Cloud+Enthusiast;Machine+Learning+Explorer" alt="Typing SVG" />
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/Yrcd27">
-    <img src="https://img.shields.io/github/followers/Yrcd27?label=Followers&style=for-the-badge&labelColor=1e293b&color=22c55e&logo=github&logoColor=white" alt="followers" />
-  </a>
-  <a href="https://github.com/Yrcd27?tab=stars">
-    <img src="https://img.shields.io/github/stars/Yrcd27?label=Total%20Stars&style=for-the-badge&labelColor=1e293b&color=22c55e&logo=github&logoColor=white" alt="stars" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Yrcd27&label=Profile%20Views&color=22c55e&style=for-the-badge&labelColor=1e293b" alt="profile views" />
-</p>
-
+<img
+  src="https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=32&duration=2600&pause=700&color=22C55E&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Yasiru+Pandigama;Computer+Engineering+Undergraduate;Full-Stack+Developer;Next.js+%26+React+Specialist;DevOps+%26+Cloud+Enthusiast;Competitive+Programmer"
+/>
+<a href="https://github.com/Yrcd27">
+  <img src="https://img.shields.io/github/followers/Yrcd27?label=Followers&style=flat&labelColor=555555&color=22C55E&logo=github&logoColor=white">
+</a>
+<a href="https://github.com/Yrcd27?tab=stars">
+  <img src="https://img.shields.io/github/stars/Yrcd27?label=Stars&style=flat&labelColor=555555&color=22C55E&logo=github&logoColor=white">
+</a>
 </div>
 
-<br/>
+---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
 ```typescript
 const yasiru = {
-  education: "Computer Engineering Undergraduate",
+  education: "University Of Ruhuna, Faculty of Engineering",
   location: "Sri Lanka 🇱🇰",
-  currentFocus: ["Next.js", "Cloud Architecture", "Microservices"],
-  interests: ["Full-Stack Development", "DevOps", "AI/ML", "Cybersecurity"],
-  learning: ["Kubernetes", "AWS", "System Design"],
+  currentFocus: ["AI and Computer Vision", "Microservices and Software Architecture", "Networking"],
+  interests: ["Full-Stack Development", "DevOps and Cloud", "AI/ML", "Cybersecurity and Networking"],
   collaboration: "Open to innovative projects and opportunities",
-  funFact: "I turn coffee into code ☕️💻"
 };
 ```
 
 > Building scalable systems, solving complex problems, and continuously learning through hands-on projects.
 
-<br/>
+---
 
-## 🚀 Technology Stack
-
-<div align="center">
+## 💻 Skills
 
 ### Frontend Development
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
+<img
+  src="https://skillicons.dev/icons?i=react,ts,nextjs,js,angular,vite,html,css,tailwind&theme=dark"
+/>
+</div>
 
 ### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<div align="center">
+<img
+  src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,dotnet&theme=dark"
+/>
+</div>
 
 ### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<div align="center">
+<img
+  src="https://skillicons.dev/icons?i=flutter,dart,kotlin&theme=dark"
+/>
+</div>
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<div align="center">
+<img
+  src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase&theme=dark"
+/>
+</div>
 
 ### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
+<img
+  src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,jenkins,terraform,ansible,git,postman&theme=dark"
+/>
+</div>
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+<div align="center">
+<img
+  src="https://skillicons.dev/icons?i=python,java,cs,cpp,c&theme=dark"
+/>
+</div>
 
 ### Data Science & ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
-
-<br/>
-
-## 📊 GitHub Statistics
-
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yrcd27&show_icons=true&theme=dark&bg_color=0d1117&title_color=22c55e&text_color=ffffff&icon_color=22c55e&border_color=22c55e&count_private=true&include_all_commits=true&hide_border=false" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yrcd27&layout=compact&theme=dark&bg_color=0d1117&title_color=22c55e&text_color=ffffff&border_color=22c55e&hide_border=false&langs_count=8" alt="Top Languages" />
+<img
+  src="https://skillicons.dev/icons?i=jupyter&theme=dark"
+/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" width="48" alt="NumPy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" width="48" alt="Pandas" />
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Yrcd27&theme=dark&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideNums=22C55E&currStreakNum=22C55E&sideLabels=FFFFFF&dates=8B949E&border=22C55E&hide_border=false" alt="GitHub Streak" />
-</div>
+## 🎯 Focus Areas
 
-<br/>
+- Full-stack and mobile application development
+- Cybersecurity and Networking   
+- Machine learning and Artificial Intelligence  
+- DevOps and Cloud infrastructure  
+- Software testing and quality assurance  
+ 
+---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yrcd27&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&border_color=22c55e&title_color=22c55e&hide_border=false" alt="Contribution Graph" />
-</div>
+## 📊 GitHub Activity
 
-<br/>
+[![Yrcd27's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yrcd27&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true)](https://github.com/Yrcd27)
 
-## 🏆 GitHub Achievements
+---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yrcd27&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&column=7&border_color=22c55e&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Followers,Stars" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-## 💼 What I Do
+## 🌐 Connect With Me
 
 <div align="center">
 
-```yaml
-Development:
-  - Full-Stack Web & Mobile Applications
-  - RESTful APIs & Microservices
-  - Responsive UI/UX Design
-
-Infrastructure:
-  - Cloud Architecture (AWS)
-  - CI/CD Automation & DevOps
-  - Container Orchestration (Docker, Kubernetes)
-
-Security & AI:
-  - Cybersecurity & Network Security
-  - Machine Learning & Data Analysis
-
-Practices:
-  - Agile/Scrum | Test-Driven Development
-  - Code Review & QA | Technical Documentation
-```
-
-</div>
-
-<br/>
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://www.yasiru-pandigama.online)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasiru-pandigama-71a960291)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/yRcd_27)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://www.yasiru-pandigama.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasiru-pandigama-71a960291)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/yRcd_27)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasirucp2002@gmail.com)
-
-</div>
-
-<div align="center">
-  
-### 💡 Open to collaboration on innovative projects and opportunities!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
 
 </div>
