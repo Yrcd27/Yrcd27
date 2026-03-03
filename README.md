@@ -4,7 +4,6 @@
   src="https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=34&duration=2600&pause=700&color=22C55E&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Yasiru+Pandigama;Computer+Engineering+Undergraduate;Full-Stack+Developer;Competitive+Programmer"
 />
 </div>
-<div></div>
 <div align="center">
 <a href="https://github.com/Yrcd27">
   <img src="https://img.shields.io/github/followers/Yrcd27?label=Followers&style=flat&labelColor=555555&color=22C55E&logo=github&logoColor=white">
@@ -22,8 +21,8 @@
 const yasiru = {
   education: "University Of Ruhuna, Faculty of Engineering",
   location: "Sri Lanka 🇱🇰",
-  currentFocus: ["AI and Computer Vision", "Microservices and Software Architecture", "Information Security and Networking"],
-  interests: ["Full-Stack Development", "DevOps and Cloud", "AI/ML", "Cybersecurity and Networking"],
+  currentFocus: ["AI & Computer Vision", "Microservices & Software Architecture", "Information Security & Networking"],
+  interests: ["Full-Stack Development", "DevOps & Cloud", "AI/ML", "Cybersecurity & Networking"],
   collaboration: "Open to innovative projects and opportunities",
 };
 ```
