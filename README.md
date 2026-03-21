@@ -21,7 +21,7 @@
 const yasiru = {
   education: "University Of Ruhuna, Faculty of Engineering",
   location: "Sri Lanka 🇱🇰",
-  currentFocus: ["AI & Computer Vision", "Microservices & Software Architecture", "Information Security & Networking"],
+  currentFocus: ["AI/ML", "Microservices & Software Architecture", "Information Security & Networking"],
   interests: ["Full-Stack Development", "DevOps & Cloud", "AI/ML", "Cybersecurity & Networking"],
   collaboration: "Open to innovative projects and opportunities",
 };
