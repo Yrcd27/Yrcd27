@@ -35,7 +35,7 @@ const yasiru = {
 
 <div align="center">
 <img
-  src="https://skillicons.dev/icons?i=react,ts,nextjs,js,angular,vite,html,css,tailwind,nodejs,express,nestjs,spring,dotnet,flutter,dart,kotlin,postgres,mongodb,mysql,sqlite,firebase,docker,kubernetes,aws,linux,jenkins,terraform,ansible,git,postman,python,java,cs,cpp,c,jupyter&theme=dark"
+  src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,vite,html,css,tailwind,nodejs,express,nestjs,spring,dotnet,flutter,dart,kotlin,postgres,mongodb,mysql,sqlite,firebase,docker,kubernetes,aws,linux,jenkins,terraform,ansible,git,postman,python,java,cs,cpp,c,jupyter&theme=dark"
 />
 </div>
 
